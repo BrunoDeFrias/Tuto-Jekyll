@@ -22,7 +22,7 @@ title: Olympe Conseil
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Mettre l'égalité entre les femmes et les hommes au coeur de votre engagement
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "olympeconseil" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  https://github.com/BrunoDeFrias/olympeconseil
